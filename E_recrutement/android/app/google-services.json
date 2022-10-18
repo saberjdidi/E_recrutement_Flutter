@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660443712719",
+    "project_id": "erecrutement-flutter-app",
+    "storage_bucket": "erecrutement-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660443712719:android:93af536efc1371d17b7bba",
+        "android_client_info": {
+          "package_name": "tn.erecrutement.e_recrutement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660443712719-adohnpnme3b9u83nputt37mfsiola4l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5pWnn6vF8BR5W23Mr2knpdfrxtNaTjhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660443712719-adohnpnme3b9u83nputt37mfsiola4l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
